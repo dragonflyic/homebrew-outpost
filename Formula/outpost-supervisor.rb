@@ -4,7 +4,7 @@ class OutpostSupervisor < Formula
   desc "Operator-side brew reconciler (Dragonfly outpost)"
   homepage "https://github.com/dragonflyic/outpost"
   url "https://github.com/dragonflyic/outpost/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "c24158a6b804dc656c23d897301cdb35d6424df194edd54f82a47bf008d16838"
   license "Proprietary"
   version "0.1.0"
 
